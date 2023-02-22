@@ -1,5 +1,6 @@
 
 # git practice
 
-A brief description of what this project does and who it's for
+This is just for git practice
+
 
